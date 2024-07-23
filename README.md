@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, aquí Rob</h1>
-<h3 align="center">Soy programador de APP multiplataformas</h3>
+<h3 align="center">Software Developer</h3>
 
 - 💬 Ask me about **Java, SQL, HTML**
 
