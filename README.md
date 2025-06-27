@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, aquí Rob</h1>
 <h3 align="center">SOFTWARE DEVELOPER</h3>
 
-- 🌱 I’m currently learning **DAM**
+- 🌱 Backend Developer
 
 - 💬 Ask me about **Java, SQL, HTML, Spring**
 
