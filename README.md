@@ -1,7 +1,5 @@
 <h1 align="center">Hola 👋, aquí Rob</h1>
-<h3 align="center">SOFTWARE DEVELOPER</h3>
-
-- 🌱 Backend Developer
+<h3 align="center">BACKEND DEVELOPER</h3>
 
 - 💬 Ask me about **Java, SpringBoot, SpringData, SpringSecurity, JUnit, Mockito, Docker**
 
