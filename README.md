@@ -3,7 +3,7 @@
 
 - 🌱 Backend Developer
 
-- 💬 Ask me about **Java, SQL, HTML, Spring**
+- 💬 Ask me about **Java, SpringBoot, SpringData, SpringSecurity, JUnit, Mockito, Docker**
 
 - 📫 How to reach me **robertogarciacr@gmail.com**
 
