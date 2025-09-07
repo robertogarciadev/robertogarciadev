@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, aquí Rob</h1>
 <h3 align="center">Backend Developer</h3>
 
-- 💬 Ask me about **Java, SpringBoot, SpringData, SpringSecurity, JUnit, Mockito, Docker**
+- 💬 Ask me about **Java, SpringBoot, SpringData, SpringSecurity, JUnit, Mockito, Microservicios, MySQL, Postgres, MongoDb, Docker**
 
 - 📫 How to reach me **robertogarciacr@gmail.com**
 
